@@ -1,6 +1,6 @@
-### Hi there, I'm **Suleman**! 👋  
+# Hi there, I'm **Suleman**! 👋  
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=32&fontAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=black&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=32&fontAlign=50)
 
 🔬 **Machine Learning Researcher | Software Engineer | AI Enthusiast**  
 📍 **DePauw University Grad**
