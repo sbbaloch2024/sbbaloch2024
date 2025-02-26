@@ -29,7 +29,8 @@
 
 <p align="left">
 </p>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sbbaloch2024&theme=react-dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sbbaloch2024&theme=react-light)
 
 
 <h3 align="left">Languages and Tools:</h3>
