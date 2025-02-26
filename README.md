@@ -1,4 +1,4 @@
-### Hi there 👋, I'm **Suleman Baloch**! 🤖  
+<p align="center"># Hi there 👋, I'm **Suleman Baloch**! 🤖  </p>
 
 I live in [New York City] and work on **Machine Learning & AI Research**  
 
