@@ -1,6 +1,5 @@
 # Hi there, I'm **Suleman**! 👋  
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=black&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=32&fontAlign=50)
 
 🔬 **Machine Learning Researcher | Software Engineer | AI Enthusiast**  
 📍 **DePauw University Grad**
@@ -22,10 +21,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suleman&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sbbaloch2024&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbbaloch2024&theme=radical" alt="GitHub Streak">
 </p>
 
 <p align="left">
