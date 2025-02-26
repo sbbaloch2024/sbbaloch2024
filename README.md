@@ -16,10 +16,8 @@ I live in New York City and work on **Machine Learning & AI Research**
 - 🎓 Recent **Computer Science** graduate from **DePauw University**
 - 🤖 Passionate about **Machine Learning, NLP, and AI-driven applications**
 - 🔬 Researcher in **Text Classification & NLP for Mental Health**
-- 📊 Developed predictive models for **public health insights** using **LLMs**
 - 🏆 **6+ Machine Learning & Software Engineering internships/research experiences**
 - 👨‍🏫 Former AI instructor at **UPenn High School Programs**
-- 🥋 Former **Taekwondo Instructor** empowering self-defense skills
 - 📫 How to reach me **sbbaloch2024@gmail.com**
 - ⚡ Fun fact **I think AI is life**
 
