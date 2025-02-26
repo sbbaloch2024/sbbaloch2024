@@ -1,4 +1,9 @@
-# Hi there, I'm **Suleman**! 👋  
+### Hi there 👋, I'm **Suleman Baloch**! 🤖  
+
+I live in [New York City] and work on **Machine Learning & AI Research**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulemanbaloch24/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbbaloch2024@gmail.com)
 
 
 🔬 **Machine Learning Researcher | Software Engineer | AI Enthusiast**  
