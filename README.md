@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Suleman Baloch</h1>
-<h3 align="center">A Deep learning Researcher and AI Enthusiast</h3>
+### Hi there, I'm **Suleman**! 👋  
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=32&fontAlign=50)
+
+🔬 **Machine Learning Researcher | Software Engineer | Educator**  
+📍 **Baloch | International Student | DePauw University Grad**
+
+---
+
+### 🚀 About Me
+- 🎓 Recent **Computer Science** graduate from **DePauw University**
+- 🤖 Passionate about **Machine Learning, NLP, and AI-driven applications**
+- 🔬 Researcher in **Text Classification & NLP for Mental Health**
+- 📊 Developed predictive models for **public health insights** using **Logistic Regression & BERT**
+- 🏆 **6+ Software Engineering & Machine Learning internships**
+- 👨‍🏫 Educator at **UPenn High School Programs**, teaching ML & AI
+- 🥋 Former **Taekwondo Instructor** empowering self-defense skills
+
+---
 
 - 🔭 I’m currently researching on **LLMs and Transformer Models**
 
