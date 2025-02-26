@@ -2,8 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=32&fontAlign=50)
 
-🔬 **Machine Learning Researcher | Software Engineer | Educator**  
-📍 **Baloch | International Student | DePauw University Grad**
+🔬 **Machine Learning Researcher | Software Engineer | AI Enthusiast**  
+📍 **DePauw University Grad**
 
 ---
 
@@ -11,18 +11,24 @@
 - 🎓 Recent **Computer Science** graduate from **DePauw University**
 - 🤖 Passionate about **Machine Learning, NLP, and AI-driven applications**
 - 🔬 Researcher in **Text Classification & NLP for Mental Health**
-- 📊 Developed predictive models for **public health insights** using **Logistic Regression & BERT**
-- 🏆 **6+ Software Engineering & Machine Learning internships**
-- 👨‍🏫 Educator at **UPenn High School Programs**, teaching ML & AI
+- 📊 Developed predictive models for **public health insights** using **LLMs**
+- 🏆 **6+ Machine Learning & Software Engineering internships/research experiences**
+- 👨‍🏫 Former AI instructor at **UPenn High School Programs**
 - 🥋 Former **Taekwondo Instructor** empowering self-defense skills
+- 📫 How to reach me **sbbaloch2024@gmail.com**
+- ⚡ Fun fact **I think AI is life**
 
 ---
 
-- 🔭 I’m currently researching on **LLMs and Transformer Models**
 
-- 📫 How to reach me **sbbaloch2024@gmail.com**
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suleman&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman&theme=radical" alt="GitHub Streak">
+</p>
 
-- ⚡ Fun fact **I think AI is life**
 
 <p align="left">
 </p>
