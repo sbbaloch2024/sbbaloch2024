@@ -65,8 +65,4 @@ I live in New York City and work on **Machine Learning & AI Research**
 
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbbaloch2024&show_icons=true&theme=light" alt="GitHub Stats">
-</p>
 
