@@ -24,7 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sbbaloch2024&show_icons=true&theme=light" alt="GitHub Stats">
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sbbaloch2024&theme=light)
 
 
 
