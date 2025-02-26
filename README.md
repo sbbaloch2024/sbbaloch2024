@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <b>Suleman Baloch</b>! 🤖</h1>  
+<h1 align="center">Hi there, I'm <b>Suleman Baloch</b>! 🤖</h1>  
 
 I live in New York City and work on **Machine Learning & AI Research**  
 
