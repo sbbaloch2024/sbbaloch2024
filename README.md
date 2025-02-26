@@ -4,32 +4,17 @@ I live in New York City and work on **Machine Learning & AI Research**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulemanbaloch24/)[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbbaloch2024@gmail.com)
 
-  
-
-
 🔬 **Machine Learning Researcher | Software Engineer | AI Enthusiast**  
-📍 **DePauw University Grad**
-
 ---
 
 ### 🚀 About Me
 - 🎓 Recent **Computer Science** graduate from **DePauw University**
-- 🤖 Passionate about **Machine Learning, NLP, and AI-driven applications**
-- 🔬 Researcher in **Text Classification & NLP for Mental Health**
 - 🏆 **6+ Machine Learning & Software Engineering internships/research experiences**
 - 👨‍🏫 Former AI instructor at **UPenn High School Programs**
 - 📫 How to reach me **sbbaloch2024@gmail.com**
 - ⚡ Fun fact **I think AI is life**
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbbaloch2024&show_icons=true&theme=light" alt="GitHub Stats">
-</p>
-
-
-
 
 ## Languages and Tools:
 
@@ -77,3 +62,11 @@ I live in New York City and work on **Machine Learning & AI Research**
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
+
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sbbaloch2024&show_icons=true&theme=light" alt="GitHub Stats">
+</p>
+
