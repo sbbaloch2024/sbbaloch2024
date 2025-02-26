@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I think AI is life**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
