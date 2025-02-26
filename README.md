@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suleman Baloch</h1>
 <h3 align="center">A Deep learning Researcher and AI Enthusiast</h3>
 
-- 🔭 I’m currently working on **LLMs and Transformer Models**
+- 🔭 I’m currently researching on **LLMs and Transformer Models**
 
 - 📫 How to reach me **sbbaloch2024@gmail.com**
 
