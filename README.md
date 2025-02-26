@@ -23,14 +23,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sbbaloch2024&show_icons=true&theme=light" alt="GitHub Stats">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbbaloch2024&theme=light" alt="GitHub Streak">
-</p>
-
-<p align="left">
-</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sbbaloch2024&theme=light)
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
