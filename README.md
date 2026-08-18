@@ -8,6 +8,7 @@ I live in USA and work on **Machine Learning & AI Research**
 ---
 
 ### 🚀 About Me
+- 🎓 2nd Year AI/ML PhD Student at **University of Iowa**
 - 🎓 Recent **Computer Science** graduate from **DePauw University**
 - 🏆 **4+ Machine Learning & Software Engineering internships/research experiences**
 - 👨‍🏫 Former AI instructor at **UPenn High School Programs**
